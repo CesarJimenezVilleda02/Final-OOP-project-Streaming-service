@@ -1,0 +1,50 @@
+--M---k-556848456--V-20--R-4.53--N-Terminator--G-Action--Y-1988--S-Universal--D-120--END
+--M---k-452515155--V-20--R-2.1--N-Fast and Furious--G-Action--Y-2006--S-Universal--D-110--END
+--M---k-546465411--V-5--R-4.6--N-Robin Hood--G-Adventure--Y-1966--S-Disney--D-90--END
+--M---k-754524221--V-19--R-3.2--N-Donnie Darko--G-Terror--Y-1988--S-warner bros--D-125--END
+--M---k-855545665--V-5--R-4.0--N-Gremnlins--G-Terror--Y-1979--S-Universal--D-119--END
+--S---k-989545665--V-5--R-4.0--N-Aliens--G-Terror--E-7--T-3--A-1--END
+--E---S-1--Ep-1--T-Nostromo--END
+--E---S-1--Ep-2--T-The planet--END
+--E---S-2--Ep-3--T-The alien--END
+--E---S-2--Ep-4--T-The escape--END
+--E---S-3--Ep-5--T-Galactic battleground--END
+--E---S-3--Ep-6--T-Chestbuster--END
+--E---S-3--Ep-7--T-Back on earth--END
+--M---k-451121212--V-1--R-5--N-Cinderella--G-Fantasy--Y-1966--S-Disney--D-90--END
+--M---k-451121212--V-18--R-5--N-The lord of the rings--G-Fantasy--Y-2005--S-Universal--D-200--END
+--M---k-545812855--V-47--R-5--N-The two towers--G-Fantasy--Y-2006--S-Universal--D-190--END
+--M---k-786966958--V-60--R-5--N-Return of the king--G-Fantasy--Y-2007--S-Universal--D-210--END
+--M---k-541215847--V-3--R-2.5--N-Beetlejuice--G-Comedy--Y-1988--S-Universal--D-75--END
+--M---k-362514789--V-9--R-1.5--N-Jeepers Creepers--G-Terror--Y-1995--S-Universal--D-115--END
+--M---k-362514789--V-1--R-0.5--N-Sharknado--G-Terror--Y-2001--S-MGM--D-85--END
+--M---k-555452562--V-8--R-3.5--N-Django--G-Western--Y-2016--S-Universal--D-110--END
+--M---k-858512456--V-1--R-0.5--N-Chucky--G-Terror--Y-2008--S-MGM--D-85--END
+--M---k-458566664--V-4--R-1.8--N-The lone Ranger--G-Western--Y-2012--S-MGM--D-85--END
+--S---k-989545665--V-6--R-5--N-Breaking Bad--G-Suspense--E-8--T-2--A-0--END
+--E---S-1--Ep-1--T-Ozymandias--END
+--E---S-1--Ep-2--T-Mr white--END
+--E---S-1--Ep-3--T-Jesse--END
+--E---S-1--Ep-4--T-Los Pollos Hermanos--END
+--E---S-1--Ep-5--T-Gray Matter--END
+--E---S-1--Ep-6--T-Grilled--END
+--E---S-2--Ep-7--T-ABQ--END
+--E---S-2--Ep-8--T-One minute--END
+--S---k-785222154--V-8--R-3.8--N-How I met your mother--G-Comedy--E-3--T-1--A-0--END
+--E---S-1--Ep-1--T-The blue instrument--END
+--E---S-1--Ep-2--T-Robin and Ted--END
+--E---S-1--Ep-3--T-Barney goes to college--END
+--S---k-785222154--V-8--R-2.8--N-The good the bad and the ugly--G-Western--E-3--T-1--A-1--END
+--E---S-1--Ep-1--T-The good--END
+--E---S-1--Ep-2--T-The bad--END
+--E---S-1--Ep-3--T-The ugly--END
+--S---k-555556585--V-18--R-5--N-Star wars Clone Wars--G-Adventure--E-9--T-3--A-0--END
+--E---S-1--Ep-1--T-Rising Malevolence--END
+--E---S-1--Ep-2--T-Shadow of Malevolence--END
+--E---S-1--Ep-3--T-Destroy Malevolence--END
+--E---S-2--Ep-4--T-Rookies--END
+--E---S-2--Ep-5--T-Duel of droids--END
+--E---S-2--Ep-6--T-Cloak of darkness--END
+--E---S-3--Ep-7--T-Lair of Grievous--END
+--E---S-3--Ep-8--T-Jedi Crash--END
+--E---S-3--Ep-9--T-Storm Over Ryloth--END
